@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
+COLORS = ["red", "orange", "yellow", "green", "blue", "dodgerblue", "purple", "magenta", "grey"]
 MOVE_INCREMENT = 1.5
 
 
